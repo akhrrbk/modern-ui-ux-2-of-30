@@ -1,1 +1,1 @@
-2/30 - this app is built using react
+2/30 projects - this app is built using react
