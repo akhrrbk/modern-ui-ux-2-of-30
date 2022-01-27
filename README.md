@@ -1,4 +1,6 @@
-2/30 projects - this app is built using react
+2/30 projects - 30-day challenge
+
+Modern UI/UX Web App using React.
 
 app is deployed [here](https://thirsty-almeida-958d98.netlify.app/)
 
